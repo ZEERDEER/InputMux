@@ -2,7 +2,7 @@
   <img src="InputMux.png" alt="InputMux Logo" width="50%">
 </p>
 
-# 📺 显示器输入源切换器 (Display Input Switcher)
+# 📺 InputMux
 
 这是一个基于C# 开发的桌面应用程序，允许用户通过VESA DDC/CI协议控制显示器的输入源切换。
 
